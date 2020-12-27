@@ -1,12 +1,12 @@
-<h1 align="center"></h1>
+<h1 align="center">Page Animation</h1>
 
 
 ## Description
-Page Animaton with Javascript
-Beautiful product card using html and css, contains an image, title, price.
+Page Animation with Javascript
+Beautiful product card using HTML and CSS, contains an image, title, price.
 
 
-## Click on the live site to see its effects [Product card]()
+## Click on the live site to see its effects [Page Animation]()
 
 
 # Support and Contacts
